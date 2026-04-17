@@ -408,7 +408,7 @@
         "file": 6
     },
     {
-        "en": "fetal breathing wheel-nurturing method",
+        "en": "Fetal Breathing Wheel-Nurturing Method",
         "cn": "胎息养轮法",
         "pinyin": "tāixī yǎnglún fǎ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -440,7 +440,7 @@
         "file": 7
     },
     {
-        "en": "Profound Pearl Spirit-Worshipping Art",
+        "en": "Profound Pearl Spirit-Sacrificing Art",
         "cn": "玄珠祀灵术",
         "pinyin": "Xuánzhū Sìlíng Shù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -491,6 +491,62 @@
         "en": "profound pearl",
         "cn": "玄珠",
         "pinyin": "xuánzhū",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "dharma mirror",
+        "cn": "法鉴",
+        "pinyin": "fǎ jiàn",
+        "type": "Item",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "Profound Brilliance Wondrous Dharma",
+        "cn": "玄明妙法",
+        "pinyin": "Xuánmíng Miàofǎ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "I shall perform meritorious deeds at the proper times, failing not in my efficacy and faith. As the talisman burns, my body offers its gratitude to the Supreme Yin.",
+        "cn": "当以时言功，不负效信，随箓焚化，身谢太阴。",
+        "pinyin": "Dāng yǐ shí yán gōng, bù fù xiào xìn, suí lù fénhuà, shēn xiè Tàiyīn.",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "That the Director of Destinies may pacify my spirit, as I honor the Dao and practice cultivation.",
+        "cn": "司命安神，奉道修行。",
+        "pinyin": "Sīmìng ānshén, fèngdào xiūxíng.",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "Ye Changfu",
+        "cn": "叶承福",
+        "pinyin": "Yè Chéngfú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 8
+    },
+    {
+        "en": "Lady Ren",
+        "cn": "任氏",
+        "pinyin": "Rèn shì",
+        "type": "Person",
+        "gender": "Female",
+        "file": 8
+    },
+    {
+        "en": "immortal art",
+        "cn": "仙法",
+        "pinyin": "xiānfǎ",
         "type": "Concept/Term",
         "gender": null,
         "file": 8
