@@ -1,0 +1,498 @@
+[
+    {
+        "en": "Supreme Yin Breathing and Qi Refining Art",
+        "cn": "太阴吐纳练气诀",
+        "pinyin": "Tàiyīn tǔnà liànqì jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Supreme Yin",
+        "cn": "太阴",
+        "pinyin": "Tàiyīn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Essential Records of Moonlight Secret Decree",
+        "cn": "月华纪要秘旨",
+        "pinyin": "Yuèhuá jìyào mìzhǐ",
+        "type": "Item",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "divine ability",
+        "cn": "神通",
+        "pinyin": "shéntōng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "demon",
+        "cn": "妖怪",
+        "pinyin": "yāoguài",
+        "type": "Creature",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "ghost",
+        "cn": "鬼",
+        "pinyin": "guǐ",
+        "type": "Creature",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "artifact spirit",
+        "cn": "器灵",
+        "pinyin": "qìlíng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "lunar essence",
+        "cn": "月华",
+        "pinyin": "yuèhuá",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1
+    },
+    {
+        "en": "Great Li Mountains",
+        "cn": "大黎山",
+        "pinyin": "Dàlí shān",
+        "type": "Place",
+        "gender": null,
+        "file": 2
+    },
+    {
+        "en": "Lijing Village",
+        "cn": "黎泾村",
+        "pinyin": "Líjīng cūn",
+        "type": "Place",
+        "gender": null,
+        "file": 2
+    },
+    {
+        "en": "Meichi River",
+        "cn": "眉尺河",
+        "pinyin": "Méichǐ hé",
+        "type": "Place",
+        "gender": null,
+        "file": 2
+    },
+    {
+        "en": "Li Yesheng",
+        "cn": "李叶生",
+        "pinyin": "Lǐ Yèshēng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 2
+    },
+    {
+        "en": "Li Mutian",
+        "cn": "李木田",
+        "pinyin": "Lǐ Mùtián",
+        "type": "Person",
+        "gender": "Male",
+        "file": 2
+    },
+    {
+        "en": "Li Xiangping",
+        "cn": "李项平",
+        "pinyin": "Lǐ Xiàngpíng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 2
+    },
+    {
+        "en": "aura of the lunar essence",
+        "cn": "月华气息",
+        "pinyin": "yuèhuá qìxī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 2
+    },
+    {
+        "en": "Tian Yun",
+        "cn": "田芸",
+        "pinyin": "Tián Yún",
+        "type": "Person",
+        "gender": "Female",
+        "file": 3
+    },
+    {
+        "en": "Li Changhu",
+        "cn": "李长湖",
+        "pinyin": "Lǐ Chánghú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Li Tongya",
+        "cn": "李通崖",
+        "pinyin": "Lǐ Tōngyá",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Li Chejing",
+        "cn": "李尺泾",
+        "pinyin": "Lǐ Chǐjīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 3
+    },
+    {
+        "en": "Liu Linyun",
+        "cn": "柳林云",
+        "pinyin": "Liǔ Línyún",
+        "type": "Person",
+        "gender": "Female",
+        "file": 3
+    },
+    {
+        "en": "Li Yecheng",
+        "cn": "李叶盛",
+        "pinyin": "Lǐ Yèshèng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 4
+    },
+    {
+        "en": "Guli Road",
+        "cn": "古黎道",
+        "pinyin": "Gǔlí Dào",
+        "type": "Place",
+        "gender": null,
+        "file": 4
+    },
+    {
+        "en": "Anli County",
+        "cn": "安黎县",
+        "pinyin": "Ānlí Xiàn",
+        "type": "Place",
+        "gender": null,
+        "file": 4
+    },
+    {
+        "en": "General Yang",
+        "cn": "杨将军",
+        "pinyin": "Yáng Jiāngjūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 4
+    },
+    {
+        "en": "Mount Yue",
+        "cn": "山越",
+        "pinyin": "Shānyuè",
+        "type": "Group",
+        "gender": null,
+        "file": 4
+    },
+    {
+        "en": "Yue Troop Martial Arts",
+        "cn": "越兵战法",
+        "pinyin": "Yuè Bīng Zhànfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 4
+    },
+    {
+        "en": "shaman",
+        "cn": "巫觋",
+        "pinyin": "wūxí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 5
+    },
+    {
+        "en": "shamanic art",
+        "cn": "巫术",
+        "pinyin": "wūshù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 5
+    },
+    {
+        "en": "Han Wenxu",
+        "cn": "韩文许",
+        "pinyin": "Hán Wénxǔ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 5
+    },
+    {
+        "en": "aperture",
+        "cn": "窍",
+        "pinyin": "qiào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 5
+    },
+    {
+        "en": "Moongaze Lake",
+        "cn": "望月湖",
+        "pinyin": "Wàngyuè Hú",
+        "type": "Place",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "Supreme... Moon... Qi... Nurturing Wheel...",
+        "cn": "太…月…气…养轮…",
+        "pinyin": "Tài… Yuè… Qì… Yǎng Lún…",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "Chen Erniu",
+        "cn": "陈二牛",
+        "pinyin": "Chén Èrniú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "Lichuankou",
+        "cn": "梨川口",
+        "pinyin": "Líchuānkǒu",
+        "type": "Place",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Li Genshui",
+        "cn": "李根水",
+        "pinyin": "Lǐ Gēnshuǐ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "Little Ze",
+        "cn": "小泽",
+        "pinyin": "Xiǎo Zé",
+        "type": "Person",
+        "gender": "Male",
+        "file": 7
+    },
+    {
+        "en": "Supreme Yin Breathing and Wheel-Nurturing Scripture",
+        "cn": "太阴吐纳养轮经",
+        "pinyin": "Tàiyīn Tǔnà Yǎnglún Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Six Wheels",
+        "cn": "六轮",
+        "pinyin": "liù lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Qi Condensation Stage",
+        "cn": "练气期",
+        "pinyin": "Liànqì Qī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "spiritual energy",
+        "cn": "灵气",
+        "pinyin": "língqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Fetal Breathing",
+        "cn": "胎息",
+        "pinyin": "Tāixī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Golden Light Art",
+        "cn": "金光术",
+        "pinyin": "Jīnguāng Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Cleanse Clothing Art",
+        "cn": "净衣术",
+        "pinyin": "Jìngyī Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Water Repelling Method",
+        "cn": "避水法",
+        "pinyin": "Bìshuǐ Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Evil Warding Art",
+        "cn": "驱邪术",
+        "pinyin": "Qūxié Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Mind Network Art",
+        "cn": "心络术",
+        "pinyin": "Xīnluò Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Foundation Establishment",
+        "cn": "筑基",
+        "pinyin": "Zhùjī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Purple Mansion",
+        "cn": "紫府",
+        "pinyin": "Zǐfǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Golden Core",
+        "cn": "金丹",
+        "pinyin": "Jīndān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Nascent Soul",
+        "cn": "元婴",
+        "pinyin": "Yuányīng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Yue State",
+        "cn": "越国",
+        "pinyin": "Yuè Guó",
+        "type": "Place",
+        "gender": null,
+        "file": 6
+    },
+    {
+        "en": "fetal breathing wheel-nurturing method",
+        "cn": "胎息养轮法",
+        "pinyin": "tāixī yǎnglún fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "divine sense",
+        "cn": "神识",
+        "pinyin": "shénshí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Moonlight Origin Mansion",
+        "cn": "月华元府",
+        "pinyin": "Yuèhuá Yuánfǔ",
+        "type": "Group",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Origin Mansion",
+        "cn": "元府",
+        "pinyin": "Yuèhuá Yuánfǔ",
+        "type": "Group",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "Profound Pearl Spirit-Worshipping Art",
+        "cn": "玄珠祀灵术",
+        "pinyin": "Xuánzhū Sìlíng Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 7
+    },
+    {
+        "en": "reception method",
+        "cn": "接引法",
+        "pinyin": "Jiēyǐn Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "profound pearl talisman seed",
+        "cn": "玄珠符种",
+        "pinyin": "xuánzhū fúzhǒng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "talisman seed",
+        "cn": "符种",
+        "pinyin": "fúzhǒng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "Supreme Yin Profound Light",
+        "cn": "太阴玄光",
+        "pinyin": "Tàiyīn Xuánguāng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "spiritual aperture",
+        "cn": "灵窍",
+        "pinyin": "líng qiào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 8
+    },
+    {
+        "en": "profound pearl",
+        "cn": "玄珠",
+        "pinyin": "xuánzhū",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 8
+    }
+]
