@@ -288,7 +288,7 @@
         "file": 7
     },
     {
-        "en": "Supreme Yin Breathing and Wheel-Nurturing Scripture",
+        "en": "Supreme Yin Breathing Wheel-Nurturing Scripture",
         "cn": "太阴吐纳养轮经",
         "pinyin": "Tàiyīn Tǔnà Yǎnglún Jīng",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -448,7 +448,7 @@
         "file": 7
     },
     {
-        "en": "reception method",
+        "en": "⟨Reception Method⟩",
         "cn": "接引法",
         "pinyin": "Jiēyǐn Fǎ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -550,5 +550,85 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 8
+    },
+    {
+        "en": "hornless dragon",
+        "cn": "螭龙",
+        "pinyin": "chīlóng",
+        "type": "Creature",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "Here is a disciple of the Li family, who has restrained his passions, blocked his transgressions, and severed the roots of evil. I bestow upon him the Profound Brilliance Wondrous Dharma, that his Daoist karma may blossom, allowing him to pass from the mortal to the sacred. From beginning to end, starting with the precepts and talismans, he shall begin his ascent to truth. I hereby grant one scroll of the Supreme Yin Breathing and Wheel-Nurturing Scripture, and one path to the Golden Light Art.",
+        "cn": "兹有李氏子弟，戒除情性，止塞愆非，制断恶根。赐下玄明妙法，使之发生道业，从凡入圣，自始及终，先从戒箓，然始登真。赐下《太阴吐纳养轮经》一卷，金光术一道。",
+        "pinyin": "Zī yǒu Lǐ shì zǐdì, jièchú qíngxìng, zhǐsè qiānfēi, zhìduàn ègēn. Cìxià Xuánmíng Miàofǎ, shǐ zhī fāshēng dàoyè, cóng fán rù shèng, zì shǐ jí zhōng, xiān cóng jièlù, rán shǐ dēng zhēn. Cìxià “Tàiyīn Tǔnà Yǎnglún Jīng” yī juàn, Jīnguāng Shù yī dào.",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "Niwan Palace",
+        "cn": "泥丸宫",
+        "pinyin": "Níwán gōng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "lower dantian",
+        "cn": "下丹田",
+        "pinyin": "xià dāntián",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "Qihai aperture",
+        "cn": "气海穴",
+        "pinyin": "Qìhǎi xué",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "Twelve-Story Pagoda",
+        "cn": "十二重楼",
+        "pinyin": "Shí'èr Chónglóu",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "lunar essence qi",
+        "cn": "月华之气",
+        "pinyin": "yuèhuá zhī qì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "Profound Scenery Wheel",
+        "cn": "玄景轮",
+        "pinyin": "Xuánjǐng Lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 9
+    },
+    {
+        "en": "Tian Shoushui",
+        "cn": "田守水",
+        "pinyin": "Tián Shǒushuǐ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 10
+    },
+    {
+        "en": "Ren Ping'an",
+        "cn": "任平安",
+        "pinyin": "Rèn Píng'ān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 10
     }
 ]
