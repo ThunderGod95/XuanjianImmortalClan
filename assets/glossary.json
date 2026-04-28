@@ -886,5 +886,141 @@
         "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 18
+    },
+    {
+        "en": "Juque pavilion",
+        "cn": "巨阙庭",
+        "pinyin": "Jùquè tíng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "dharma protector",
+        "cn": "护法",
+        "pinyin": "hùfǎ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "Qingsui Peak",
+        "cn": "青穗峰",
+        "pinyin": "Qīngsuì Fēng",
+        "type": "Place",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "earth vein",
+        "cn": "地脉",
+        "pinyin": "dìmài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "demon",
+        "cn": "妖物",
+        "pinyin": "yāowù",
+        "type": "Creature",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "pig demon",
+        "cn": "猪妖",
+        "pinyin": "zhūyāo",
+        "type": "Creature",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "Azure Pond",
+        "cn": "青池",
+        "pinyin": "Qīngchí",
+        "type": "Group",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "Azure Pond Sect",
+        "cn": "青池宗",
+        "pinyin": "Qīngchí Zōng",
+        "type": "Group",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "commandery",
+        "cn": "郡",
+        "pinyin": "jùn",
+        "type": "Place",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "dharma artifact",
+        "cn": "法器",
+        "pinyin": "fǎqì",
+        "type": "Artifact",
+        "gender": null,
+        "file": 19
+    },
+    {
+        "en": "Azure Pond Immortal Sect",
+        "cn": "青池仙宗",
+        "pinyin": "Qīngchí Xiānzōng",
+        "type": "Group",
+        "gender": null,
+        "file": 20
+    },
+    {
+        "en": "White Essence Fruit",
+        "cn": "白元果",
+        "pinyin": "Báiyuán Guǒ",
+        "type": "Item",
+        "gender": null,
+        "file": 20
+    },
+    {
+        "en": "spirit rice",
+        "cn": "灵稻",
+        "pinyin": "língdào",
+        "type": "Item",
+        "gender": null,
+        "file": 20
+    },
+    {
+        "en": "Peak Master",
+        "cn": "峰主",
+        "pinyin": "fēngzhǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 20
+    },
+    {
+        "en": "rogue cultivator",
+        "cn": "散修",
+        "pinyin": "sǎnxiū",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 20
+    },
+    {
+        "en": "dharma seal",
+        "cn": "法印",
+        "pinyin": "fǎyìn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 20
+    },
+    {
+        "en": "flying shuttle",
+        "cn": "飞梭",
+        "pinyin": "fēisuō",
+        "type": "Artifact",
+        "gender": null,
+        "file": 19
     }
 ]
