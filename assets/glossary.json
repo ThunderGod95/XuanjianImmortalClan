@@ -288,7 +288,7 @@
         "file": 7
     },
     {
-        "en": "Supreme Yin Breathing Wheel-Nurturing Scripture",
+        "en": "⟨Supreme Yin Breathing Wheel-Nurturing Scripture⟩",
         "cn": "太阴吐纳养轮经",
         "pinyin": "Tàiyīn Tǔnà Yǎnglún Jīng",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -520,7 +520,7 @@
         "file": 8
     },
     {
-        "en": "That the Director of Destinies may pacify my spirit, as I honor the Dao and practice cultivation.",
+        "en": "to govern my destiny and soothe my spirit, as I dedicate myself to pursuing the Dao.",
         "cn": "司命安神，奉道修行。",
         "pinyin": "Sīmìng ānshén, fèngdào xiūxíng.",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -630,5 +630,261 @@
         "type": "Person",
         "gender": "Male",
         "file": 10
+    },
+    {
+        "en": "dharma power",
+        "cn": "法力",
+        "pinyin": "fǎlì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 11
+    },
+    {
+        "en": "Bearing Brightness Wheel",
+        "cn": "承明轮",
+        "pinyin": "Chéngmíng Lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 11
+    },
+    {
+        "en": "Heavenly Circuit Wheel",
+        "cn": "周行轮",
+        "pinyin": "Zhōuxíng Lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 11
+    },
+    {
+        "en": "Azure Essence Wheel",
+        "cn": "青元轮",
+        "pinyin": "Qīngyuán Lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 11
+    },
+    {
+        "en": "Jade Capital Wheel",
+        "cn": "玉京轮",
+        "pinyin": "Yùjīng Lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 11
+    },
+    {
+        "en": "Nascent Spirit Wheel",
+        "cn": "灵初轮",
+        "pinyin": "Língchū Lún",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 11
+    },
+    {
+        "en": "immortal artifact",
+        "cn": "仙物",
+        "pinyin": "xiānwù",
+        "type": "Artifact",
+        "gender": null,
+        "file": 11
+    },
+    {
+        "en": "Three Hurdles of Fetal Breathing",
+        "cn": "胎息三关",
+        "pinyin": "Tāixī Sān Guān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 12
+    },
+    {
+        "en": "Meichi Peak",
+        "cn": "眉尺峰",
+        "pinyin": "Méichǐ Fēng",
+        "type": "Place",
+        "gender": null,
+        "file": 13
+    },
+    {
+        "en": "Jingyang Village",
+        "cn": "泾阳村",
+        "pinyin": "Jīngyáng Cūn",
+        "type": "Place",
+        "gender": null,
+        "file": 13
+    },
+    {
+        "en": "rear mountain",
+        "cn": "后山",
+        "pinyin": "hòushān",
+        "type": "Place",
+        "gender": null,
+        "file": 13
+    },
+    {
+        "en": "Xiangping",
+        "cn": "项平",
+        "pinyin": "Xiàng Píng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 15
+    },
+    {
+        "en": "Meichi Mountain",
+        "cn": "眉尺山",
+        "pinyin": "Méichǐ Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Meichi River",
+        "cn": "眉尺河",
+        "pinyin": "Méichǐ Hé",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Liu Linfeng",
+        "cn": "柳林峰",
+        "pinyin": "Liǔ Línfēng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 15
+    },
+    {
+        "en": "Xiali Road",
+        "cn": "夏黎道",
+        "pinyin": "Xiàlí Dào",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Wu State",
+        "cn": "吴国",
+        "pinyin": "Wú Guó",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Jingxia City",
+        "cn": "井夏城",
+        "pinyin": "Jǐngxià Chéng",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "pure essence",
+        "cn": "精华",
+        "pinyin": "jīnghuá",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 16
+    },
+    {
+        "en": "spiritual consciousness",
+        "cn": "灵识",
+        "pinyin": "língshí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 16
+    },
+    {
+        "en": "Xiangping",
+        "cn": "项平",
+        "pinyin": "Xiàngpíng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 15
+    },
+    {
+        "en": "Meichi Mountain",
+        "cn": "眉尺山",
+        "pinyin": "Méichǐ Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Meichi River",
+        "cn": "眉尺河",
+        "pinyin": "Méichǐ Hé",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Liu Linfeng",
+        "cn": "柳林峰",
+        "pinyin": "Liǔ Línfēng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 15
+    },
+    {
+        "en": "Xiali Road",
+        "cn": "夏黎道",
+        "pinyin": "Xiàlí Dào",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Wu State",
+        "cn": "吴国",
+        "pinyin": "Wú Guó",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "Jingxia City",
+        "cn": "井夏城",
+        "pinyin": "Jǐngxià Chéng",
+        "type": "Place",
+        "gender": null,
+        "file": 15
+    },
+    {
+        "en": "pure essence",
+        "cn": "精华",
+        "pinyin": "jīnghuá",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 16
+    },
+    {
+        "en": "spiritual consciousness",
+        "cn": "灵识",
+        "pinyin": "língshí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 16
+    },
+    {
+        "en": "Xuanxuan",
+        "cn": "玄宣",
+        "pinyin": "Xuánxuān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 18
+    },
+    {
+        "en": "Li Xuanxuan",
+        "cn": "李玄宣",
+        "pinyin": "Lǐ Xuánxuān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 18
+    },
+    {
+        "en": "Profound Scenery of the clear abyss, Sun and Moon Bearing Brightness.\nHeavenly Circuit of the crimson palace, subsequently speaking of Azure Essence.\nJade Capital reflects the image, witnessing only the Spiritual Beginning.",
+        "cn": "玄景渊清，曦月承明。\n周行绛阙，遂语青元。\n玉京映象，唯见灵初。",
+        "pinyin": "Xuán jǐng yuān qīng, xī yuè chéng míng.\nZhōu xíng jiàng què, suì yǔ qīng yuán.\nYù jīng yìng xiàng, wéi jiàn líng chū.",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 18
     }
 ]
