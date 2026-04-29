@@ -72,7 +72,7 @@
         "file": 2
     },
     {
-        "en": "Lijing Village",
+        "en": "Lijing",
         "cn": "黎泾村",
         "pinyin": "Líjīng cūn",
         "type": "Place",
@@ -704,7 +704,7 @@
         "file": 13
     },
     {
-        "en": "Jingyang Village",
+        "en": "Jingyang",
         "cn": "泾阳村",
         "pinyin": "Jīngyáng Cūn",
         "type": "Place",
@@ -749,14 +749,6 @@
         "pinyin": "Liǔ Línfēng",
         "type": "Person",
         "gender": "Male",
-        "file": 15
-    },
-    {
-        "en": "Xiali Road",
-        "cn": "夏黎道",
-        "pinyin": "Xiàlí Dào",
-        "type": "Place",
-        "gender": null,
         "file": 15
     },
     {
@@ -1022,5 +1014,245 @@
         "type": "Artifact",
         "gender": null,
         "file": 19
+    },
+    {
+        "en": "Azure Essence Wheel-Nurturing Method",
+        "cn": "青元养轮法",
+        "pinyin": "Qīngyuán Yǎnglún Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "First Grade",
+        "cn": "一品",
+        "pinyin": "yī pǐn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Heavenly Essence Qi Condensation Incantation",
+        "cn": "天元练气诀",
+        "pinyin": "Tiānyuán Liànqì Jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Second Grade",
+        "cn": "二品",
+        "pinyin": "èr pǐn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Secret Missive of Lixia",
+        "cn": "黎夏秘笺",
+        "pinyin": "Líxià Mìjiān",
+        "type": "Item",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Lixia",
+        "cn": "黎夏",
+        "pinyin": "Líxià",
+        "type": "Place",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Lixia commandery",
+        "cn": "黎夏郡",
+        "pinyin": "Líxià jùn",
+        "type": "Place",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Under Azure Pond's Rule.",
+        "cn": "青池治下",
+        "pinyin": "Qīngchí zhìxià",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Lidaokou",
+        "cn": "黎道口",
+        "pinyin": "Lídàokǒu",
+        "type": "Place",
+        "gender": null,
+        "file": 21
+    },
+    {
+        "en": "Xu Wenshan",
+        "cn": "许文山",
+        "pinyin": "Xǔ Wénshān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 21
+    },
+    {
+        "en": "Spirit-Seeking Art",
+        "cn": "寻灵术",
+        "pinyin": "Xúnlíng Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 22
+    },
+    {
+        "en": "immortal beast",
+        "cn": "仙兽",
+        "pinyin": "xiānshòu",
+        "type": "Creature",
+        "gender": null,
+        "file": 22
+    },
+    {
+        "en": "Heavenly Essence Unified Spiritual Array",
+        "cn": "天元一道灵阵",
+        "pinyin": "Tiānyuán Yīdào Língzhèn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 22
+    },
+    {
+        "en": "spiritual array",
+        "cn": "灵阵",
+        "pinyin": "língzhèn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 22
+    },
+    {
+        "en": "spiritual vein",
+        "cn": "灵脉",
+        "pinyin": "língmài",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 22
+    },
+    {
+        "en": "array formation",
+        "cn": "阵法",
+        "pinyin": "zhènfǎ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 22
+    },
+    {
+        "en": "Xiao Yuansi",
+        "cn": "萧元思",
+        "pinyin": "Xiāo Yuánsī",
+        "type": "Person",
+        "gender": "Male",
+        "file": 22
+    },
+    {
+        "en": "Yuan Tuan",
+        "cn": "袁湍",
+        "pinyin": "Yuán Tuān",
+        "type": "Person",
+        "gender": "Female",
+        "file": 22
+    },
+    {
+        "en": "grand perfection",
+        "cn": "大圆满",
+        "pinyin": "dà yuánmǎn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 22
+    },
+    {
+        "en": "Spirit Rain Art",
+        "cn": "灵雨术",
+        "pinyin": "Língyǔ shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 23
+    },
+    {
+        "en": "spirit rain",
+        "cn": "灵雨",
+        "pinyin": "língyǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 23
+    },
+    {
+        "en": "spirit plant cultivation method",
+        "cn": "灵植培育法门",
+        "pinyin": "língzhí péiyù fǎmén",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 23
+    },
+    {
+        "en": "spirit field",
+        "cn": "灵田",
+        "pinyin": "língtián",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 23
+    },
+    {
+        "en": "Chen Changhu",
+        "cn": "陈长户",
+        "pinyin": "Chén Chánghù",
+        "type": "Person",
+        "gender": "Male",
+        "file": 23
+    },
+    {
+        "en": "Liu Rouxuan",
+        "cn": "柳柔绚",
+        "pinyin": "Liǔ Róuxuàn",
+        "type": "Person",
+        "gender": "Female",
+        "file": 23
+    },
+    {
+        "en": "Ye Qiuyang",
+        "cn": "叶秋阳",
+        "pinyin": "Yè Qiūyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 23
+    },
+    {
+        "en": "Ye Changfu",
+        "cn": "叶承福",
+        "pinyin": "Yè Chéngfú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 23
+    },
+    {
+        "en": "Li Qiuyang",
+        "cn": "李秋阳",
+        "pinyin": "Lǐ Qiūyáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 24
+    },
+    {
+        "en": "Li Changfu",
+        "cn": "李承福",
+        "pinyin": "Lǐ Chéngfú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 24
+    },
+    {
+        "en": "spiritual artifacts",
+        "cn": "灵物",
+        "pinyin": "língwù",
+        "type": "Artifact",
+        "gender": null,
+        "file": 24
     }
 ]
