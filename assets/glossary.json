@@ -1,6 +1,6 @@
 [
     {
-        "en": "Supreme Yin Breathing and Qi Refining Art",
+        "en": "⟨Supreme Yin Breathing and Qi Refining Art⟩",
         "cn": "太阴吐纳练气诀",
         "pinyin": "Tàiyīn tǔnà liànqì jué",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -16,7 +16,7 @@
         "file": 1
     },
     {
-        "en": "Essential Records of Moonlight Secret Decree",
+        "en": "⟨Essential Records of Moonlight Secret Decree⟩",
         "cn": "月华纪要秘旨",
         "pinyin": "Yuèhuá jìyào mìzhǐ",
         "type": "Item",
@@ -328,7 +328,7 @@
         "file": 7
     },
     {
-        "en": "Golden Light Art",
+        "en": "⟨Golden Light Art⟩",
         "cn": "金光术",
         "pinyin": "Jīnguāng Shù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -336,7 +336,7 @@
         "file": 7
     },
     {
-        "en": "Cleanse Clothing Art",
+        "en": "⟨Cleanse Clothing Art⟩",
         "cn": "净衣术",
         "pinyin": "Jìngyī Shù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -344,7 +344,7 @@
         "file": 7
     },
     {
-        "en": "Water Repelling Method",
+        "en": "⟨Water Repelling Method⟩",
         "cn": "避水法",
         "pinyin": "Bìshuǐ Fǎ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -352,7 +352,7 @@
         "file": 7
     },
     {
-        "en": "Evil Warding Art",
+        "en": "⟨Evil Warding Art⟩",
         "cn": "驱邪术",
         "pinyin": "Qūxié Shù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -360,7 +360,7 @@
         "file": 7
     },
     {
-        "en": "Mind Network Art",
+        "en": "⟨Mind Network Art⟩",
         "cn": "心络术",
         "pinyin": "Xīnluò Shù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -768,22 +768,6 @@
         "file": 15
     },
     {
-        "en": "pure essence",
-        "cn": "精华",
-        "pinyin": "jīnghuá",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 16
-    },
-    {
-        "en": "spiritual consciousness",
-        "cn": "灵识",
-        "pinyin": "língshí",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 16
-    },
-    {
         "en": "Xiangping",
         "cn": "项平",
         "pinyin": "Xiàngpíng",
@@ -848,7 +832,7 @@
         "file": 16
     },
     {
-        "en": "spiritual consciousness",
+        "en": "spiritual sense",
         "cn": "灵识",
         "pinyin": "língshí",
         "type": "Concept/Term",
@@ -1168,7 +1152,7 @@
         "file": 22
     },
     {
-        "en": "Spirit Rain Art",
+        "en": "⟨Spirit Rain Art⟩",
         "cn": "灵雨术",
         "pinyin": "Língyǔ shù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -1254,5 +1238,85 @@
         "type": "Artifact",
         "gender": null,
         "file": 24
+    },
+    {
+        "en": "spirit root",
+        "cn": "灵根",
+        "pinyin": "línggēn",
+        "type": "Item",
+        "gender": null,
+        "file": 25
+    },
+    {
+        "en": "pure qi",
+        "cn": "清气",
+        "pinyin": "qīng qì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "dharma technique",
+        "cn": "法诀",
+        "pinyin": "fǎ jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "lunar essence Azure Essence",
+        "cn": "月华青元",
+        "pinyin": "yuè huá qīng yuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "Profound Water Sword Art",
+        "cn": "玄水剑诀",
+        "pinyin": "xuán shuǐ jiàn jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "Third Grade",
+        "cn": "三品",
+        "pinyin": "sān pǐn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "Tangjin Sect",
+        "cn": "镗金门",
+        "pinyin": "táng jīn mén",
+        "type": "Group",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "Senior Brother",
+        "cn": "师兄",
+        "pinyin": "shī xiōng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "Junior Sister",
+        "cn": "师妹",
+        "pinyin": "shī mèi",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "fetal qi",
+        "cn": "胎气",
+        "pinyin": "tāi qì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 28
     }
 ]
