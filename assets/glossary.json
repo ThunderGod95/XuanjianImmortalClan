@@ -1288,9 +1288,17 @@
         "file": 28
     },
     {
-        "en": "Tangjin Sect",
+        "en": "Metal Tang Gate",
         "cn": "镗金门",
         "pinyin": "táng jīn mén",
+        "type": "Group",
+        "gender": null,
+        "file": 28
+    },
+    {
+        "en": "Metal Tang",
+        "cn": "镗金",
+        "pinyin": "táng jīn",
         "type": "Group",
         "gender": null,
         "file": 28
@@ -1318,5 +1326,77 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 28
+    },
+    {
+        "en": "demon cave",
+        "cn": "妖洞",
+        "pinyin": "yāodòng",
+        "type": "Place",
+        "gender": null,
+        "file": 30
+    },
+    {
+        "en": "immortal sect",
+        "cn": "仙宗",
+        "pinyin": "xiānzōng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 30
+    },
+    {
+        "en": "Songyue",
+        "cn": "松越",
+        "pinyin": "Sōngyuè",
+        "type": "Item",
+        "gender": null,
+        "file": 29
+    },
+    {
+        "en": "Great Xu",
+        "cn": "大徐",
+        "pinyin": "Dà Xú",
+        "type": "Place",
+        "gender": null,
+        "file": 29
+    },
+    {
+        "en": "Mount Tangdao",
+        "cn": "镗刀山",
+        "pinyin": "Tángdāo Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 29
+    },
+    {
+        "en": "Ji Dengqi",
+        "cn": "汲登齐",
+        "pinyin": "Jí Dēngqí",
+        "type": "Person",
+        "gender": "Male",
+        "file": 29
+    },
+    {
+        "en": "Qi Refinement",
+        "cn": "练气",
+        "pinyin": "Liànqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 29
+    },
+    {
+        "en": "Xie Wen",
+        "cn": "谢文",
+        "pinyin": "Xiè Wén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 30
+    },
+    {
+        "en": "Li Xiewen",
+        "cn": "李谢文",
+        "pinyin": "Lǐ Xièwén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 30
     }
 ]
