@@ -304,8 +304,8 @@
         "file": 7
     },
     {
-        "en": "Qi Condensation Stage",
-        "cn": "练气期",
+        "en": "Qi Refinement",
+        "cn": "练气",
         "pinyin": "Liànqì Qī",
         "type": "Concept/Term",
         "gender": null,
@@ -1016,7 +1016,7 @@
         "file": 21
     },
     {
-        "en": "Heavenly Essence Qi Condensation Incantation",
+        "en": "Heavenly Essence Qi Refinement Incantation",
         "cn": "天元练气诀",
         "pinyin": "Tiānyuán Liànqì Jué",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -1376,15 +1376,7 @@
         "file": 29
     },
     {
-        "en": "Qi Refinement",
-        "cn": "练气",
-        "pinyin": "Liànqì",
-        "type": "Concept/Term",
-        "gender": null,
-        "file": 29
-    },
-    {
-        "en": "Xie Wen",
+        "en": "Xiewen",
         "cn": "谢文",
         "pinyin": "Xiè Wén",
         "type": "Person",
