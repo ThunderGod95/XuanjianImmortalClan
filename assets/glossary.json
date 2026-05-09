@@ -408,6 +408,14 @@
         "file": 6
     },
     {
+        "en": "state",
+        "cn": "国",
+        "pinyin": "Guó",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 6
+    },
+    {
         "en": "Fetal Breathing Wheel-Nurturing Method",
         "cn": "胎息养轮法",
         "pinyin": "tāixī yǎnglún fǎ",
@@ -1344,7 +1352,7 @@
         "file": 30
     },
     {
-        "en": "Songyue",
+        "en": "Yue Pine",
         "cn": "松越",
         "pinyin": "Sōngyuè",
         "type": "Item",
@@ -1390,5 +1398,45 @@
         "type": "Person",
         "gender": "Male",
         "file": 30
+    },
+    {
+        "en": "Wan Tiancang",
+        "cn": "万天仓",
+        "pinyin": "Wàn Tiāncāng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 32
+    },
+    {
+        "en": "Mount Huaqian",
+        "cn": "华芊山",
+        "pinyin": "Huáqiān Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 32
+    },
+    {
+        "en": "Wan Xiaohua",
+        "cn": "万萧华",
+        "pinyin": "Wàn Xiāohuá",
+        "type": "Person",
+        "gender": "Male",
+        "file": 32
+    },
+    {
+        "en": "Yubu Mountain",
+        "cn": "余部山",
+        "pinyin": "Yúbù Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 32
+    },
+    {
+        "en": "spiritual mechanisms",
+        "cn": "灵机",
+        "pinyin": "língjī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 32
     }
 ]
