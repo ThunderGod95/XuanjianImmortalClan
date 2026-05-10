@@ -1480,7 +1480,7 @@
         "file": 32
     },
     {
-        "en": "Serpentine Wyrm Fruit",
+        "en": "Serpent Dragon Fruit",
         "cn": "蛇蛟果",
         "pinyin": "shéjiāo guǒ",
         "type": "Item",
@@ -1488,7 +1488,7 @@
         "file": 33
     },
     {
-        "en": "Serpentine Essence Pills",
+        "en": "Serpent Essence Pills",
         "cn": "蛇元丹",
         "pinyin": "shéyuán dān",
         "type": "Item",
@@ -1502,5 +1502,53 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 33
+    },
+    {
+        "en": "Fog Bewildering Array",
+        "cn": "雾里迷阵",
+        "pinyin": "wùlǐ mízhèn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 34
+    },
+    {
+        "en": "spirit stone",
+        "cn": "灵石",
+        "pinyin": "língshí",
+        "type": "Item",
+        "gender": null,
+        "file": 34
+    },
+    {
+        "en": "array core",
+        "cn": "阵眼",
+        "pinyin": "zhènyǎn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 34
+    },
+    {
+        "en": "alchemy fire",
+        "cn": "丹火",
+        "pinyin": "dānhuǒ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 34
+    },
+    {
+        "en": "Profound Scenery Spirit Oath",
+        "cn": "玄景灵誓",
+        "pinyin": "Xuánjǐng língshì",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 35
+    },
+    {
+        "en": "Heavenly Dao",
+        "cn": "天道",
+        "pinyin": "Tiāndào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 35
     }
 ]
