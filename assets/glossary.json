@@ -1424,7 +1424,7 @@
         "file": 32
     },
     {
-        "en": "Yubu Mountain",
+        "en": "Mount Yubu",
         "cn": "余部山",
         "pinyin": "Yúbù Shān",
         "type": "Place",
@@ -1438,5 +1438,69 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 32
+    },
+    {
+        "en": "array formation",
+        "cn": "阵法",
+        "pinyin": "zhènfǎ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 32
+    },
+    {
+        "en": "Miasma Obscuring Array",
+        "cn": "迷障阵",
+        "pinyin": "mízhàng zhèn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 32
+    },
+    {
+        "en": "array flag",
+        "cn": "阵旗",
+        "pinyin": "zhènqí",
+        "type": "Item",
+        "gender": null,
+        "file": 32
+    },
+    {
+        "en": "Dao of Arrays",
+        "cn": "阵道",
+        "pinyin": "zhèndào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 32
+    },
+    {
+        "en": "Mount Lijing",
+        "cn": "黎泾山",
+        "pinyin": "Líjīng Shān",
+        "type": "Place",
+        "gender": null,
+        "file": 32
+    },
+    {
+        "en": "Serpentine Wyrm Fruit",
+        "cn": "蛇蛟果",
+        "pinyin": "shéjiāo guǒ",
+        "type": "Item",
+        "gender": null,
+        "file": 33
+    },
+    {
+        "en": "Serpentine Essence Pills",
+        "cn": "蛇元丹",
+        "pinyin": "shéyuán dān",
+        "type": "Item",
+        "gender": null,
+        "file": 33
+    },
+    {
+        "en": "Dao of Alchemy",
+        "cn": "丹道",
+        "pinyin": "dāndào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 33
     }
 ]
