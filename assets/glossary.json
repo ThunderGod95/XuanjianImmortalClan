@@ -1514,7 +1514,7 @@
     {
         "en": "spirit stone",
         "cn": "灵石",
-        
+
         "pinyin": "língshí",
         "type": "Item",
         "gender": null,
@@ -1551,5 +1551,29 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 35
+    },
+    {
+        "en": "Liu Miaotu",
+        "cn": "柳苗土",
+        "pinyin": "Liǔ Miáotǔ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 36
+    },
+    {
+        "en": "Li Xuanfeng",
+        "cn": "李玄锋",
+        "pinyin": "Lǐ Xuánfēng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 37
+    },
+    {
+        "en": "Li Jingtian",
+        "cn": "李景恬",
+        "pinyin": "Lǐ Jǐngtián",
+        "type": "Person",
+        "gender": "Female",
+        "file": 37
     }
 ]
