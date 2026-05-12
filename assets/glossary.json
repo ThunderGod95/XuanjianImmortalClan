@@ -312,7 +312,7 @@
         "file": 7
     },
     {
-        "en": "spiritual energy",
+        "en": "spiritual qi",
         "cn": "灵气",
         "pinyin": "língqì",
         "type": "Concept/Term",
@@ -464,7 +464,7 @@
         "file": 8
     },
     {
-        "en": "profound pearl talisman seed",
+        "en": "Profound Pearl Talisman Seed",
         "cn": "玄珠符种",
         "pinyin": "xuánzhū fúzhǒng",
         "type": "Concept/Term",
@@ -472,7 +472,7 @@
         "file": 8
     },
     {
-        "en": "talisman seed",
+        "en": "Talisman Seed",
         "cn": "符种",
         "pinyin": "fúzhǒng",
         "type": "Concept/Term",
@@ -1575,5 +1575,181 @@
         "type": "Person",
         "gender": "Female",
         "file": 37
+    },
+    {
+        "en": "Clear Spirit Powder",
+        "cn": "明神散",
+        "pinyin": "Míngshén sǎn",
+        "type": "Item",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "Lesser Clear Spiritual Qi",
+        "cn": "小清灵气",
+        "pinyin": "Xiǎoqīng língqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "Earth Vein Malevolent Qi",
+        "cn": "地脉煞气",
+        "pinyin": "Dìmài shàqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "malevolent qi",
+        "cn": "地脉煞气",
+        "pinyin": "Dìmài shàqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "Morning Glow Rainbow Qi",
+        "cn": "朝霞彩气",
+        "pinyin": "Zhāoxiá cǎiqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "⟨Primordial Purity Rain-Controlling Art⟩",
+        "cn": "元清御雨诀",
+        "pinyin": "Yuánqīng yùyǔ jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "Rainmist qi",
+        "cn": "雨间雾中气",
+        "pinyin": "Yǔjiān wùzhōng qì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "⟨Mountain Yin Forest Mist Art⟩",
+        "cn": "山阴林雾诀",
+        "pinyin": "Shānyīn línwù jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "Yin qi",
+        "cn": "阴气",
+        "pinyin": "yīnqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "⟨Moon Lake Autumn Reflection Art⟩",
+        "cn": "月湖映秋诀",
+        "pinyin": "Yuèhú yìngqiū jué",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "Moon Lake Peak",
+        "cn": "月湖峰",
+        "pinyin": "Yuèhú fēng",
+        "type": "Place",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "Immortal Mansion",
+        "cn": "仙府",
+        "pinyin": "xiānfǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 39
+    },
+    {
+        "en": "Supreme Yin Lunar Essence",
+        "cn": "太阴月华",
+        "pinyin": "Tàiyīn yuèhuá",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 39
+    },
+    {
+        "en": "Golden Autumn on Lake",
+        "cn": "湖中金秋",
+        "pinyin": "Húzhōng jīnqiū",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 39
+    },
+    {
+        "en": "grayish-blue mirror",
+        "cn": "青灰色鉴子",
+        "pinyin": "qīnghuīsè jiànzi",
+        "type": "Artifact",
+        "gender": null,
+        "file": 38
+    },
+    {
+        "en": "profound light",
+        "cn": "玄光",
+        "pinyin": "xuánguāng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 39
+    },
+    {
+        "en": "visual sense",
+        "cn": "视识",
+        "pinyin": "shìshí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 39
+    },
+    {
+        "en": "golden nature",
+        "cn": "金性",
+        "pinyin": "Jīnxìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Supreme Yang",
+        "cn": "太阳",
+        "pinyin": "Tàiyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "Daoist Master",
+        "cn": "真人",
+        "pinyin": "Zhēnrén",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "True Monarch",
+        "cn": "真君",
+        "pinyin": "Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
+    },
+    {
+        "en": "devil",
+        "cn": "魔",
+        "pinyin": "Mó",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
     }
 ]
