@@ -947,9 +947,17 @@
         "en": "dharma artifact",
         "cn": "法器",
         "pinyin": "fǎqì",
-        "type": "Artifact",
+        "type": "Concept/Term",
         "gender": null,
         "file": 19
+    },
+    {
+        "en": "dharma treasure",
+        "cn": "法宝",
+        "pinyin": "Fǎbǎo",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 0
     },
     {
         "en": "Azure Pond Immortal Sect",
@@ -1767,5 +1775,93 @@
         "type": "Person",
         "gender": "Male",
         "file": 40
+    },
+    {
+        "en": "⟨Divine Movement Art⟩",
+        "cn": "神行术",
+        "pinyin": "shénxíng shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 42
+    },
+    {
+        "en": "spiritual nature",
+        "cn": "灵性",
+        "pinyin": "língxìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 43
+    },
+    {
+        "en": "Essentials of Miscellaneous Cultivation",
+        "cn": "杂修秘要",
+        "pinyin": "Záxiū Mìyào",
+        "type": "Item",
+        "gender": null,
+        "file": 43
+    },
+    {
+        "en": "⟨Spirit-Sealing Art⟩",
+        "cn": "封灵术",
+        "pinyin": "fēnglíng shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 43
+    },
+    {
+        "en": "spiritual spring",
+        "cn": "灵泉",
+        "pinyin": "língquán",
+        "type": "Item",
+        "gender": null,
+        "file": 44
+    },
+    {
+        "en": "Dao base",
+        "cn": "道基",
+        "pinyin": "dàojī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 44
+    },
+    {
+        "en": "Yang Tianya",
+        "cn": "杨天衙",
+        "pinyin": "Yáng Tiānyá",
+        "type": "Person",
+        "gender": "Male",
+        "file": 44
+    },
+    {
+        "en": "immortal base",
+        "cn": "仙基",
+        "pinyin": "xiānjī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 44
+    },
+    {
+        "en": "immortal foundation",
+        "cn": "仙基",
+        "pinyin": "xiānjī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 44
+    },
+    {
+        "en": "Earth-Locking Huaqian Array",
+        "cn": "地锁华芊阵",
+        "pinyin": "Dìsuǒ Huáqiān Zhèn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 45
+    },
+    {
+        "en": "spiritual vessel",
+        "cn": "灵器",
+        "pinyin": "língqì",
+        "type": "Artifact",
+        "gender": null,
+        "file": 45
     }
 ]
