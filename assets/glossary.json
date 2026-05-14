@@ -888,7 +888,7 @@
         "file": 19
     },
     {
-        "en": "Qingsui Peak",
+        "en": "Azure Tassel Peak",
         "cn": "青穗峰",
         "pinyin": "Qīngsuì Fēng",
         "type": "Place",
@@ -1751,5 +1751,21 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 0
+    },
+    {
+        "en": "Chen Sanshui",
+        "cn": "陈三水",
+        "pinyin": "Chén Sānshuǐ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 40
+    },
+    {
+        "en": "Chen Qiushui",
+        "cn": "陈求水",
+        "pinyin": "Chén Qiúshuǐ",
+        "type": "Person",
+        "gender": "Male",
+        "file": 40
     }
 ]
